@@ -1,10 +1,10 @@
 #sej-button{
 	position: fixed;
-    top: 0px;
+    top: 20px;
     left: 0px;
-    width: 14px;
+    width: 30px;
     height: 14px;
-    background: grey;
+    background: red;
     border-radius: 7px !important;
     display: block;
     z-index: 91111111111;
